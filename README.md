@@ -1,6 +1,20 @@
 # Visitly - Most Visited Places
 
-Visitly is a Flutter travel discovery app that finds popular nearby places from the user's current location. It includes an interactive Google Map, dynamic nearby search, place detail sheets, image sliders, reviews, favorites, trips, route preview, filters, and voice search.
+A beautiful Flutter travel discovery app that helps you explore popular places around you with real-time location tracking, interactive maps, and smart search powered by Google Places API.
+
+## Description
+
+Visitly transforms local exploration into an intuitive experience. Discover restaurants, attractions, landmarks, and points of interest within customizable radius zones. The app features an elegant Material Design 3 interface with dark/light themes, ranked place markers, voice search, trip planning, and personalized favorites—all powered by Google Maps and Places APIs.
+
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-03 at 09.29.05.png" width="200" alt="Map View"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-03 at 09.29.52.png" width="200" alt="Explore Screen"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-03 at 09.29.59.png" width="200" alt="Place Details"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-03 at 09.30.02.png" width="200" alt="Trips"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-03 at 09.30.04.png" width="200" alt="Favorites"/>
+</div>
 
 ## Features
 
